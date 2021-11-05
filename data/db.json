@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Finish the app (almost done)",
+      "details": "lorem ipsum",
+      "complete": false,
+      "deleted": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "lorem ipsum",
+      "complete": false,
+      "deleted": false
+    },
+    {
+      "id": "810d35e2-16f1-4e13-9041-2a25153815c1",
+      "title": "Have dinner ",
+      "details": "Eat some left over shawarma and fries and code after that \n",
+      "complete": true,
+      "deleted": false
+    }
+  ]
+}
